@@ -8,6 +8,7 @@ The color buttons can be used to change the colors (red, green, blue, black).
 The size buttons change the size of the brush (small, regular, large XL).
 The slider at the bottom adjusts the opacity. It is set at 100% opacity by default. Lowering it will decrease the opacity.
 The clear button will clear all of your drawings.
+The save button will save your painting to photos
 
 ## Sources I used
 - https://www.geeksforgeeks.org/handling-click-events-button-android/
